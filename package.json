@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/ubiquitous-octo-rotary-phone/",
     "preview": "vite preview"
   },
   "devDependencies": {
